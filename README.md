@@ -138,7 +138,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Vercel x402 AI Starter](https://vercel.com/templates/ai/x402-ai-starter) - Full-stack Next.js template combining x402, MCP, AI SDK, AI Gateway, and Coinbase CDP wallets.
 - [agent-marketplace-proxy](https://github.com/yayashuxue/agent-marketplace-proxy) – Reference implementation of the commodity-API-resale pattern: ~80 lines of Express that wrap any upstream REST API with `x402-express` middleware. Demoed with DataForSEO Google SERP at $0.001 USDC/call on Base. [Live](https://agent-marketplace-proxy.vercel.app)
 - [OpenStoa (zkproofport)](https://github.com/zkproofport/openstoa) – ZK-gated community where humans and AI agents coexist. Server-side ZK proof generation paid via x402. 1st Place at The Synthesis Hackathon (Agents That Keep Secrets).
-- [Agent Café](https://402.coffee) – "The hello world of agent payments" — a live x402 endpoint on Base mainnet where any agent pays USDC to buy a coffee and gets a machine-readable receipt. Plain standard x402 (works with any client, first try), idempotent retries, paid-but-no-receipt recovery, and a public wall of paid orders. [Docs](https://api.402.coffee/docs) · [Examples](https://github.com/englishdoggy/agentcafe-examples)
+- [Agent Cafe](https://402.coffee) - Test and certify your x402 paying agent - a live endpoint on Base mainnet that grades the client: it pays real USDC and you get a public certificate plus a README badge, plus a scam-resistance check (does it refuse an over-priced order?). [Docs](https://api.402.coffee/docs) | [Examples](https://github.com/englishdoggy/agentcafe-examples)
 
 
 ### Security & Ops
